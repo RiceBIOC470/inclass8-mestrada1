@@ -1,3 +1,6 @@
+%AW: Looks good 1/1.
+
+
 %Inclass assignment 8
 
 %Using the swalign function
